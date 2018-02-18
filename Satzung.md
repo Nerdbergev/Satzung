@@ -39,7 +39,7 @@ Hauptteil der Satzung
 
 
 ### §5. Ausschluss eines Mitglieds
-1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, es den satzungsgemäßen Zielen des Vereins entgegenwirkt oder seinen Beitragsverpflichtungen nicht nachkommt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form gemäß **§x** unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.  
+1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, es den satzungsgemäßen Zielen des Vereins entgegenwirkt oder seinen Beitragsverpflichtungen nicht nachkommt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form gemäß unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.  
 2. Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.  
 
 ### §6. Rechte und Pflichten der Mitglieder
@@ -81,7 +81,7 @@ zwei Vorstandsmitglieder erforderlich. Abweichend davon sind der Vorsitzende, de
 
 ### §11 Satzung- und Geschäftsordnungsänderung
 
-1. Über Satzungs- und Geschäftsordnungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens einen Monat vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von **zwei Dritteln** der n gültigen Stimmen erforderlich.
+1. Über Satzungs- und Geschäftsordnungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens einen Monat vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von **zwei Dritteln** der gültigen Stimmen erforderlich.
 2. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war. 
 3. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.  
 
