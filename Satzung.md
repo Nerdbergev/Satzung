@@ -19,9 +19,9 @@ Hauptteil der Satzung
 ### §2. Vereinszweck
 1. Zweck des Vereins ist die Förderung von Bildung und Volksbildung im Bereich der Informationstechnologien und neuen Technologien.
 2. Der Satzungszweck wird insbesondere verwirklicht durch
-  1. Durchführung von öffentlichen entgeltfreien Veranstaltungen im Themenkreis Informationstechnologien und Informationskultur, Computersicherheit und kreativem Umgang mit neuen Technologien und deren Anwendungen.
-  2. Förderung von Forschung, Entwicklung und Aufklärung im Bereich der Informationstechnologien.
-  3. Förderung der Allgemeinbildung der Bevölkerung im Umgang mit neuen Technologien.
+	1. Durchführung von öffentlichen entgeltfreien Veranstaltungen im Themenkreis Informationstechnologien und Informationskultur, Computersicherheit und kreativem Umgang mit neuen Technologien und deren Anwendungen.
+	2. Förderung von Forschung, Entwicklung und Aufklärung im Bereich der Informationstechnologien.
+	3. Förderung der Allgemeinbildung der Bevölkerung im Umgang mit neuen Technologien.
 
 ### §3. Gemeinnützigkeit
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts ”Steuerbegünstigte Zwecke” der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
