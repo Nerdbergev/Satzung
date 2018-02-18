@@ -17,14 +17,14 @@ Hauptteil der Satzung
 4. Das Geschäftsjahr ist das Kalenderjahr
 
 ### §2. Vereinszweck
-1. Zweck des Vereins ist die Förderung von Bildung und Volksbildung im Bereich der Informationstechnologien und neuen Technologien.
+1. Zweck des Vereins ist die Förderung von Bildung und Volksbildung im Bereich der Informationstechnologien und neuen Technologien.
 2. Der Satzungszweck wird insbesondere verwirklicht durch
-  1. Durchführung von öffentlichen entgeltfreien Veranstaltungen im Themenkreis Informationstechnologien und Informationskultur, Computersicherheit und kreativem Umgang mit neuen Technologien und deren Anwendungen.
-  2. Förderung von Forschung, Entwicklung und Aufklärung im Bereich der Informationstechnologien.
-  3. Förderung der Allgemeinbildung der Bevölkerung im Umgang mit neuen Technologien.
+  1. Durchführung von öffentlichen entgeltfreien Veranstaltungen im Themenkreis Informationstechnologien und Informationskultur, Computersicherheit und kreativem Umgang mit neuen Technologien und deren Anwendungen.
+  2. Förderung von Forschung, Entwicklung und Aufklärung im Bereich der Informationstechnologien.
+  3. Förderung der Allgemeinbildung der Bevölkerung im Umgang mit neuen Technologien.
 
 ### §3. Gemeinnützigkeit
-1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts ”Steuerbegünstigte Zwecke” der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts ”Steuerbegünstigte Zwecke” der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
 2. Der Verein ist selbstlos tätig.  
 3. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.  
 4. Die Mitglieder erhalten keine Gewinnanteile. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.  
@@ -56,7 +56,7 @@ Hauptteil der Satzung
 3. Der Vorstand hat zusätzlich unverzüglich eine Mitgliederversammlung einzuberufen, wenn mindestens **20%** der Vereinsmitglieder die Einberufung in Textform fordern.
 4. Jedes stimmberechtigte Vereinsmitglied hat das gleiche Stimmgewicht.  
 5. Stimmberechtigt ist jedes anwesende Mitglied dessen Mitgliedschaft nicht ruht.  
-6. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmem.  
+6. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen gültigen Stimmem.  
 7. Über die Beschlüsse der Mitgliederversammlung ist Protokoll zu führen, das vom Versammlungsleiter zu unterzeichnen ist.  
 8. Abstimmungen müssen geheim erfolgen, wenn mindestens ein Mitglied dies fordert.  
 9. Die Mitgliederversammlung bestimmt einen Kassenprüfer, der die Arbeit des Kassenwartes kontrolliert und der Mitgliederversammlung berichtet.  
@@ -69,7 +69,7 @@ Hauptteil der Satzung
 	* einem stellvertretenden Vorsitzenden  
 	* einem Kassenwart  
 3. Der Vorstand wird von der Mitgliederversammlung gewählt und bleibt bis zur Amtsübernahme durch seinen Nachfolger im Amt.
-4. Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB bei Rechtsgeschä̈ften bis
+4. Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB bei Rechtsgeschäften bis
 zu einem Hö̈chstbetrag von 1500 EURO. Bei Rechtsgeschäften ü̈ber 1500 EURO ist die Vertretung durch
 zwei Vorstandsmitglieder erforderlich. Abweichend davon sind der Vorsitzende, der stellvertretende Vorsitzende und der Schatzmeister jeweils einzeln gegenüber Kreditinstituten vertretungsberechtigt und verfügungsbefugt.
 5. Bei Rechtsgeschäften, deren Geschäftswert 5.000,00 Euro überschreitet, ist im Innenverhältnis ein Beschluss der Mitgliederversammlung erforderlich.  
@@ -77,11 +77,11 @@ zwei Vorstandsmitglieder erforderlich. Abweichend davon sind der Vorsitzende, de
 
 ### §10 Mitgliedsbeiträge
 1. Für die Regelung der Beiträge beschließt die Mitgliederversammlung eine Beitragsordnung.  
-2. Bei Beendigung der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückerstattung von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf offene Beitragsforderungen bleibt hiervon unberührt. 
+2. Bei Beendigung der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückerstattung von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf offene Beitragsforderungen bleibt hiervon unberührt. 
 
 ### §11 Satzung- und Geschäftsordnungsänderung
 
-1. Über Satzungs- und Geschäftsordnungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens einen Monat vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von **zwei Dritteln** der abgegebenen gültigen Stimmen erforderlich.
+1. Über Satzungs- und Geschäftsordnungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens einen Monat vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von **zwei Dritteln** der n gültigen Stimmen erforderlich.
 2. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war. 
 3. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.  
 
