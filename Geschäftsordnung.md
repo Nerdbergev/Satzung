@@ -14,11 +14,10 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
  2. Der Vorstand trägt dafür Sorge, dass Satzungsänderungen und Personalveränderungen im Vorstand zeitnah den zuständigen Behörden gemeldet werden.
 
 ### §3 Aufgaben des 1. und des 2. Vorsitzenden
- 1. Der 1. Vorsitzende und der 2. Vorsitzende (die Vorstandsvorsitzenden) haben dafür Sorge zu tragen, dass das Postfach einmal wöchentlich geleert wird.
- 2. Die Vorstandsvorsitzenden führen die Liste der Vereinsmitglieder. Periodisch werden von ihnen die sich ergebenden Veränderungen durch Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt. In der Regel geschieht das beim Plenum.
- 3. Die Vorsitzenden verwalten die Mailinglisten und Verteiler des Vereins. Sie tragen Neumitglieder zeitnah in die Systeme ein und entfernen die entsprechenden Daten beim Ausscheiden eines Mitglieds.
- 4. Die Zugangsberechtigungen zum Vereinswiki werden von den Vorsitzenden auf dem aktuellen Stand gehalten.
- 5. Die Zusammenarbeit mit lokalen Vereinen sowie die Vertretung des Vereins gegenüber Verwaltungen und Organisationen ist Aufgabe der Vorsitzenden.
+ 1. Die Vorstandsvorsitzenden führen die Liste der Vereinsmitglieder. Periodisch werden von ihnen die sich ergebenden Veränderungen durch Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt. In der Regel geschieht das beim Plenum.
+ 2. Die Vorsitzenden verwalten die Mailinglisten und Verteiler des Vereins. Sie tragen Neumitglieder zeitnah in die Systeme ein und entfernen die entsprechenden Daten beim Ausscheiden eines Mitglieds.
+ 3. Die Zugangsberechtigungen zum Vereinswiki werden von den Vorsitzenden auf dem aktuellen Stand gehalten.
+ 4. Die Zusammenarbeit mit lokalen Vereinen sowie die Vertretung des Vereins gegenüber Verwaltungen und Organisationen ist Aufgabe der Vorsitzenden.
 
 ### § 4 Aufgaben des Kassenwarts
  1. Der Kassenwart überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
@@ -47,7 +46,7 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
 
 ### §9 Schließberechtigungen
  1. Erteilung, Verwaltung und Entzug von Schließberechtigungen obliegt dem Vorstand.
- 2. Die Existenz einer jeden Schließberechtigungen ist zu protokollieren. Die Daten sind innerhalb von 3 Monaten nach erlöschen der Schließberechtigung zu vernichten. In besonderen Fällen kann vom Vorstand eine Speicherung von bis zu 12 Monaten nach Erlöschung der Schließberechtigung angeordnet werden.
+ 2. Die Existenz einer jeden Schließberechtigungen ist zu protokollieren. Die Daten sind gemäß der gesetzlichen Vorgaben aber spätestens 3 Monaten nach erlöschen der Schließberechtigung zu vernichten. In besonderen Fällen kann vom Vorstand eine Speicherung von bis zu 12 Monaten nach Erlöschung der Schließberechtigung angeordnet werden, soweit dies den gesetzlichen Regelungen nicht widerspricht.
  3. Elektronische Systeme, welche das Schließsystem steuern, sind aktuell zu halten. Gleiches gilt für Daten, welche den Zugriff auf die Schließsysteme regeln.
  4. Der Vorstand kann ein ordentliches Mitglied als schließbeauftragte Person bestimmen und die in 2 und 3 genannten Verantwortlichkeiten an diese übertragen.
 
@@ -57,4 +56,4 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
  3. Die Mitglieder des Vereins sind regelmäßig über die Vorstandsaktivitäten zu informieren. In der Regel geschieht dies beim Plenum.
 
 ### §11 Inkrafttreten
-Diese Geschäftsordnung wurde durch den Vorstand am xx.xx.xxxx beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
+Diese Geschäftsordnung wurde durch die Mitgliederversammlung am xx.xx.xxxx beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
