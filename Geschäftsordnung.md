@@ -14,7 +14,6 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
  1. Der Vorstand trägt dafür Sorge, dass Satzungsänderungen und Personalveränderungen im Vorstand zeitnah den zuständigen Behörden gemeldet werden.
 
 ### §3 Aufgaben des 1. und des 2. Vorsitzenden
- 1. Der 1. Vorsitzende und der 2. Vorsitzende (die Vorstandsvorsitzenden) haben dafür Sorge zu tragen, dass das Postfach einmal wöchentlich geleert wird.
  1. Die Vorstandsvorsitzenden führen die Liste der Vereinsmitglieder. Periodisch werden von ihnen die sich ergebenden Veränderungen durch Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt. In der Regel geschieht das beim Plenum.
  1. Die Vorsitzenden verwalten die Mailinglisten und Verteiler des Vereins. Sie tragen Neumitglieder zeitnah in die Systeme ein und entfernen die entsprechenden Daten beim Ausscheiden eines Mitglieds.
  1. Die Zugangsberechtigungen zum Vereinswiki werden von den Vorsitzenden auf dem aktuellen Stand gehalten.
@@ -57,4 +56,5 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
  1. Die Mitglieder des Vereins sind regelmäßig über die Vorstandsaktivitäten zu informieren. In der Regel geschieht dies beim Plenum.
 
 ### §11 Inkrafttreten
-Diese Geschäftsordnung wurde durch den Vorstand am xx.xx.xxxx beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
+Diese Geschäftsordnung wurde durch die Mitgliederversammlung am xx.xx.xxxx beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
+
