@@ -7,17 +7,17 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
 ### §1 Versammlungsordnung
  1. Der Vorstand soll **monatlich tagen, mindestens aber einmal im Quartal.**
  1. Der Vorstand wählt aus seinen Reihen einen Protokollführer.
- 1. Der Protokollführer legt über den Verlauf der Vorstandssitzungen eine Niederschrift an. Die Niederschrift ist innerhalb von 48 Stunden den Mitgliedern per E-Mail zur Verfügung zu stellen. Erfolgt nach der Veröffentlichung der Niederschrift innerhalb von einer Woche kein Einspruch, gilt diese als genehmigt und wird veröffentlicht.
+ 1. Der Protokollführer legt über den Verlauf der Vorstandssitzungen eine Niederschrift an. Die Niederschrift ist innerhalb von 48 Stunden den Mitgliedern per E-Mail zur Verfügung zu stellen.
 
 ### §2 Zuständigkeiten der Vorstandsmitglieder
- 1. Jedes Vorstandsmitglied ist dazu berechtigt, geringe Ausgaben ohne Beschluss zu genehmigen. Diese dürfen pro Vorstandsmitglied und Quartal **EUR 200** nicht übersteigen.
  1. Der Vorstand trägt dafür Sorge, dass Satzungsänderungen und Personalveränderungen im Vorstand zeitnah den zuständigen Behörden gemeldet werden.
 
-### §3 Aufgaben des 1. und des 2. Vorsitzenden
- 1. Die Vorstandsvorsitzenden führen die Liste der Vereinsmitglieder. Periodisch werden von ihnen die sich ergebenden Veränderungen durch Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt. In der Regel geschieht das beim Plenum.
- 1. Die Vorsitzenden verwalten die Mailinglisten und Verteiler des Vereins. Sie tragen Neumitglieder zeitnah in die Systeme ein und entfernen die entsprechenden Daten beim Ausscheiden eines Mitglieds.
- 1. Die Zugangsberechtigungen zum Vereinswiki werden von den Vorsitzenden auf dem aktuellen Stand gehalten.
- 1. Die Zusammenarbeit mit lokalen Vereinen sowie die Vertretung des Vereins gegenüber Verwaltungen und Organisationen ist Aufgabe der Vorsitzenden.
+### §3 Aufgaben des Vorstandes
+ 1. Die Vorstände führen die Liste der Vereinsmitglieder. Periodisch werden von ihnen die sich ergebenden Veränderungen durch Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt. In der Regel geschieht das beim Plenum.
+ 1. Die Vorstände verwalten die Mailinglisten und Verteiler des Vereins. Sie tragen Neumitglieder zeitnah in die Systeme ein und entfernen die entsprechenden Daten beim Ausscheiden eines Mitglieds.
+ 1. Die Zugangsberechtigungen zum Vereinswiki werden von den Vorständen auf dem aktuellen Stand gehalten.
+ 1. Die Zusammenarbeit mit lokalen Vereinen sowie die Vertretung des Vereins gegenüber Verwaltungen und Organisationen ist Aufgabe der Vorstände.
+ 1. Die Aufgaben aus §3 Absatz 2 bis 4 können von den Vorständen an andere Mitglieder deligiert werden. 
 
 ### § 4 Aufgaben des Kassenwarts
  1. Der Kassenwart überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
@@ -27,34 +27,19 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
  1. Für Bareingänge stellt der Kassenwart eine formgerechte Quittung in doppelter Ausfertigung aus, davon eine für den Einzahler.
  1. Jede einzelne Ausgabe muss belegt werden. Jeder Beleg muss von dem Vereinsmitglied, das die Ausgabe getätigt hat, umgehend beim Kassenwart eingereicht werden.
 
-### §5 Beschlussfassungen und Wahlen
- 1. Abstimmungen erfolgen offen, soweit keines der anwesenden Mitgliedern eine geheime Abstimmung verlangt.
- 1. Die offene Abstimmung erfolgt durch Handzeichen.
-
-### §6 Erstattung der Auslagen des Vorstands
- 1. Auslagen des Vorstands zur Verfolgung der Vereinszwecke werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
-
-### §7 Erfa-Kreis-Vertreter
- 1. Der Vorstand bestimmt aus den Reihen der ordentlichen Mitglieder einen Erfa-Kreis-Vertreter.
- 1. Der Erfa-Kreis-Vertreter ist Verantwortlich für die Abstimmung mit Erfahrungsaustauschkreisen des Chaos Computer Club e.V. (CCC e.V.). Hat der Nerdberg e.V. im CCC e.V. den Status eines Erfa-Kreises, so nimmt der Erfa-Kreis-Vertreter an den regelmäßigen Konferenzen der Erfa-Kreis-Vertreter teil
- 1. Beabsichtigt der Verein, bestimmte Themen oder Aktivitäten mit überregionalem Bezug an die Öffentlichkeit zu tragen, so stimmt der Erfa-Kreis-Vertreter dies vorher mit dem Vorstand des Chaos Computer Club e.V. ab.
- 1. Bei Verhinderung des Erfa-Kreis-Vertreters übernimmt stellvertretend ein Vorstandsmitglied dessen Aufgaben.
-
-### §8 Pressesprecher
+### §5 Pressesprecher
  1. Der Vorstand kann ein ordentliches Vereinsmitglied zum Pressesprecher ernennen.
  1. Der Pressesprecher ist Hauptverantwortlicher für die Öffentlichkeitsarbeit. Er ist angehalten, die Allgemeinheit durch Pressemitteilungen und Nutzung sonstige Publikationskanäle seiner Wahl über öffentliche Vereinsaktivitäten zu informieren.
 
-### §9 Schließberechtigungen
- 1. Erteilung, Verwaltung und Entzug von Schließberechtigungen obliegt dem Vorstand.
+### §6 Schließberechtigungen
+ 1. Das Plenum empfiehlt die Erteilung einer Schließberechtigung dem Vorstand. Der Vorstand wird sich mit dem Vorschlag des Plenums auseinandersetzen und hat final die Möglichkeit zu- oder gegen zu stimmen.
  1. Die Existenz einer jeden Schließberechtigungen ist zu protokollieren. Die Daten sind innerhalb von 3 Monaten nach erlöschen der Schließberechtigung zu vernichten. In besonderen Fällen kann vom Vorstand eine Speicherung von bis zu 12 Monaten nach Erlöschung der Schließberechtigung angeordnet werden.
  1. Elektronische Systeme, welche das Schließsystem steuern, sind aktuell zu halten. Gleiches gilt für Daten, welche den Zugriff auf die Schließsysteme regeln.
  1. Der Vorstand kann ein ordentliches Mitglied als schließbeauftragte Person bestimmen und die in 2 und 3 genannten Verantwortlichkeiten an diese übertragen.
 
-### §10 Transparenz der Vorstandsarbeit
- 1. Vorstandsmitglieder sowie, sofern vorhanden, Erfa-Kreis-Vertreter, Pressesprecher und Schließbeauftragter, tragen Sorge dafür, dass ihre Arbeit für alle Vereinsmitglieder transparent ist. Insbesondere haben sie ihre Arbeit angemessen zu dokumentieren.
- 1. Die in Absatz 1. genannten Personen teilen in eigener Verantwortung getroffene Entscheidung dem gesamten Vorstand unverzüglich mit. Dies geschieht in geeigneter Form (i.d.R. per E-Mail-Verteiler).
- 1. Die Mitglieder des Vereins sind regelmäßig über die Vorstandsaktivitäten zu informieren. In der Regel geschieht dies beim Plenum.
+### §7 Transparenz der Vorstandsarbeit
+ 1. Vorstandsmitglieder sowie Beauftragte tragen Sorge dafür, dass ihre Arbeit für alle Vereinsmitglieder transparent ist. Insbesondere haben sie ihre Arbeit nachvollziehbar zu dokumentieren.
+ 1. Die in Absatz 1. genannten Personen teilen in eigener Verantwortung getroffene Entscheidung dem Vorstand unverzüglich mit. Dies geschieht in geeigneter Form (i.d.R. per E-Mail-Verteiler).
 
-### §11 Inkrafttreten
+### §8 Inkrafttreten
 Diese Geschäftsordnung wurde durch die Mitgliederversammlung am xx.xx.xxxx beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
-
