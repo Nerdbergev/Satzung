@@ -5,7 +5,7 @@ Geschäftsordnung des Vorstandes
 Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Festlegung von Regeln, zum Anderen ist sie als Dokumentation für die Arbeit des Vorstands anzusehen.
 
 ### §1 Versammlungsordnung
- 1. Der Vorstand soll **monatlich tagen, mindestens aber einmal im Quartal.**
+ 1. Der Vorstand soll monatlich tagen, mindestens aber einmal im Quartal.
  1. Der Vorstand wählt aus seinen Reihen einen Protokollführer.
  1. Der Protokollführer legt über den Verlauf der Vorstandssitzungen eine Niederschrift an. Die Niederschrift ist innerhalb von 48 Stunden den Mitgliedern per E-Mail zur Verfügung zu stellen.
 
