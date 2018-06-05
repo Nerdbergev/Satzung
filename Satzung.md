@@ -2,10 +2,10 @@ Präambel
 --------
 Nerdberg ist ein politisch, weltanschaulich und wirtschaftlich unabhängiger Verein mit dem Ziel der Mitgestaltung einer offenen, aufgeklärten und angstfreien Informationsgesellschaft. 
 Der Verein ist ein Zusammenschluss von Individuen, denen der Wunsch nach Auslotung von technischen Grenzen, dem Erproben von Innovationen und der freie Wissensaustausch gemein ist.
-Nerdberg begreift sich als Freiraum, in dem die Mitglieder aufgefordert sind, individuelle Impulse einzubringen, um interdisziplinär und **kreativ an und mit dem Gerät** sowie in verwandten Disziplinen zu arbeiten und sich auszutauschen.
+Nerdberg begreift sich als Freiraum, in dem die Mitglieder aufgefordert sind, individuelle Impulse einzubringen, um interdisziplinär und kreativ an und mit dem Gerät sowie in verwandten Disziplinen zu arbeiten und sich auszutauschen.
 Wesentliches Vereinsziel ist die Erwachsenen- und Jugendbildung. Sowohl medienpädagogische Arbeit, als auch die Förderung der Hilfe zur Selbsthilfe stehen hier im Fokus.
 Die „Hackerkultur“ im ursprünglichen Sinn des Wortes ist geprägt vom konstruktiven, spielerischen und progressiven Umgang mit Technologie und motiviert durch das gestalterische Potential, das die Informationstechnologie der Allgemeinheit eröffnet hat. Wir sehen Hackerkultur als wichtigen Beitrag zur gesellschaftspolitischen Entwicklung und als kreative Triebfeder für technologische und gesellschaftliche Innovation.
-Die Mitglieder des Nerdberg sind in den Bereichen Freie Software, Mikrocontrolling, Anwendungsentwicklung, Hard- und Softwarediagnostik, Netzpolitik, **Networking**, alternative Telekommunikationsinfrastruktur, additive Fertigungstechnologien, sowie der Nutzung neuer Technologien in der Gegenwartskunst aktiv.
+Die Mitglieder des Nerdberg sind in den Bereichen Freie Software, Mikrocontrolling, Anwendungsentwicklung, Hard- und Softwarediagnostik, Netzpolitik, alternative Telekommunikationsinfrastruktur, additive Fertigungstechnologien, sowie der Nutzung neuer Technologien in der Gegenwartskunst aktiv.
 
 Hauptteil der Satzung
 ---------------------
@@ -16,16 +16,24 @@ Hauptteil der Satzung
 3. Der Sitz des Vereins ist Nürnberg.  
 4. Das Geschäftsjahr ist das Kalenderjahr
 
-### §2. Vereinszweck
+### §2. Vereinszweck und Zweckverwirklichung
 1. Zweck des Vereins ist die Förderung von Bildung und Volksbildung im Bereich der Informationstechnologien und neuen Technologien.
 2. Der Vereinszweck wird insbesondere, aber nicht ausschließlich verwirklicht durch
-	1. Durchführung von öffentlichen Veranstaltungen im Themenkreis Informationstechnologien und Informationskultur, Computersicherheit und kreativem Umgang mit neuen Technologien und deren Anwendungen.
-	2. Förderung von Forschung, Entwicklung und Aufklärung im Bereich der Informationstechnologien.
-	3. Förderung der Allgemeinbildung der Bevölkerung im Umgang mit neuen Technologien.
+	1. Förderung von Forschung, Entwicklung und Aufklärung im Bereich der Informationstechnologien sowie die Förderung der Allgemeinbildung der Bevölkerung im Umgang mit neuen Technologien. Unteranderem verwirklicht durch: 
+		1. Schaffung einer in allen u.g. Bereichen förderlichen Infrastruktur (Werkstatt, Hard- und Softwarebereitstellung) 
+		2. Lernen durch Lehren als zentrales Weiterbildungselement. Im Mittelpunkt steht das Schaffen einer Stuktur, welche den selbstständigen Erwerb von Wissen und die Entwicklung der Fähigkeiten zur Wissensvermittlung fördert
+		3. Jugendarbeit und Erwachsenenbildung im Bereich Medienkompetenz. Beispielsweise Schulungen zum verantwortungsvollen Umgang mit neuen Medien in Zusammenarbeit mit öffentlichen sowie privaten Bildungseinrichtungen.
+	
+	2. Durchführung von öffentlichen Veranstaltungen im Themenkreis Informationstechnologien und Informationskultur, Computersicherheit und kreativem Umgang mit neuen Technologien und deren Anwendungen. Unter Anderem: 
+		1. Regelmäßige Treffen und Informationsveranstaltungen
+		2. Veranstaltung und/oder Förderung von Kongressen, Konferenzen und virtuellen Zusammenkünften.
+		3. Schaffung eines modernen Datenschutzbewusstseins. Unter Anderem durch öffentliche Vorträge und Diskussionsrunden zu gesellschaftspolitischen Fragestellungen im Hinblick auf das Recht zur informationellen Selbstbestimmung.
+		4. Vorführung von Filmen, insbesondere Dokumentationen, Aufzeichnungen von Vorträgen und Live-Streaming von Veranstaltungen.
+
 
 ### §3. Gemeinnützigkeit
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts ”Steuerbegünstigte Zwecke” der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
-2. Der Verein ist selbstlos tätig.  
+2. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. 
 3. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.  
 4. Die Mitglieder erhalten keine Gewinnanteile. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.  
 
@@ -100,16 +108,16 @@ zwei Vorstandsmitglieder erforderlich. Abweichend davon sind der Vorsitzende, de
 
 ### §14 Satzung- und Geschäftsordnungsänderung
 
-1. Über Satzungs- und Geschäftsordnungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens einen Monat vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von **zwei Dritteln** der gültigen Stimmen erforderlich.
+1. Über Satzungs- und Geschäftsordnungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens einen Monat vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von zwei Dritteln der gültigen Stimmen erforderlich.
 2. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war. 
 3. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.  
 
 ### §15 Auflösung des Vereins
 1. Über die Auflösung des Vereins entscheidet die Mitgliederversammlung.
-2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks- und Berufsbildung **einschließlich der Studentenhilfe.**  
+2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks- und Berufsbildung.
 
 
 
 
-Legende: **Fett** zu ändern
+
 		
