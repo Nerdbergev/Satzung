@@ -65,7 +65,7 @@ Hauptteil der Satzung
 3. Der Vorstand hat zusätzlich unverzüglich eine Mitgliederversammlung einzuberufen, wenn mindestens **20%** der Vereinsmitglieder die Einberufung in Textform fordern.
 4. Jedes stimmberechtigte Vereinsmitglied hat das gleiche Stimmgewicht.  
 5. Stimmberechtigt ist jedes anwesende Mitglied dessen Mitgliedschaft nicht ruht.  
-6. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen gültigen Stimmem.  
+6. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen gültigen Ja/Nein Stimmen.
 7. Über die Beschlüsse der Mitgliederversammlung ist Protokoll zu führen, das vom Versammlungsleiter zu unterzeichnen ist.  
 8. Abstimmungen müssen geheim erfolgen, wenn mindestens ein Mitglied dies fordert.  
 9. Die Mitgliederversammlung bestimmt einen Kassenprüfer, der die Arbeit des Kassenwartes kontrolliert und der Mitgliederversammlung berichtet.  
@@ -108,7 +108,7 @@ zwei Vorstandsmitglieder erforderlich. Abweichend davon sind der Vorsitzende, de
 
 ### §14 Satzung- und Geschäftsordnungsänderung
 
-1. Über Satzungs- und Geschäftsordnungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens einen Monat vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von zwei Dritteln der gültigen Stimmen erforderlich.
+1. Über Satzungs- und Geschäftsordnungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens einen Monat vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von zwei Dritteln der gültigen Ja/Nein Stimmen erforderlich.
 2. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war. 
 3. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.  
 
