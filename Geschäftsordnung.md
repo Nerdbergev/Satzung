@@ -1,7 +1,7 @@
 Geschäftsordnung des Vorstandes
 ===============================
 
-### §0 Preambel
+### §0 Präambel
 Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Festlegung von Regeln, zum Anderen ist sie als Dokumentation für die Arbeit des Vorstands anzusehen.
 
 ### §1 Versammlungsordnung
