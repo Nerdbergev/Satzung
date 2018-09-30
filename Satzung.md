@@ -86,7 +86,7 @@ Hauptteil der Satzung
 	* einem stellvertretenden Vorsitzenden  
 	* einem Kassenwart  
 3. Der Vorstand wird von der Mitgliederversammlung gewählt und bleibt bis zur Amtsübernahme durch seinen Nachfolger im Amt.
-4. Die Mitgliederversammlung gibt dem Vorstand eine Geschäftsordnung, in der auch bestimmte Zuständigkeiten einzelnen Vorstandsmitgliedern zugeordnet werden können.
+4. Der Vorstand gibt sich eine Geschäftsordnung, in der auch bestimmte Zuständigkeiten einzelnen Vorstandsmitgliedern zugeordnet werden können.
 5. Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB bei Rechtsgeschäften bis
 zu einem Höchstbetrag von 1.500,00 Euro. Bei Rechtsgeschäften über 1.500,00 Euro ist die Vertretung durch
 zwei Vorstandsmitglieder erforderlich. Abweichend davon sind der Vorsitzende, der stellvertretende Vorsitzende und der Schatzmeister jeweils einzeln gegenüber Kreditinstituten vertretungsberechtigt und verfügungsbefugt. 
