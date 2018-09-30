@@ -75,7 +75,7 @@ Hauptteil der Satzung
 1. Das Plenum ist das zweithöchste Organ des Vereins. Es fordert Informationen vom Vorstand ein und berät diesen in Fragen des Tagesgeschehens. Jedes stimmberechtigte Mitglied des Vereins ist antragsberechtigt.
 3. Das Plenum tagt regelmäßig.
 4. Tagungen des Plenum können im Rahmen eines persönlichen Treffens stattfinden.
-5. Eine persönliche Einladung zu den Sitzungen des Plenums erfolgt nicht.
+5. Eine persönliche Einladung zu den Sitzungen des Plenums erfolgt nicht. Die Sitzung wird mindestens 48 Stunden vorher an den in der Geschäftsordnung des Plenums genannten Orten angekündigt. In dringenden Fällen können die vorgenannten Bekanntmachungsfristen verkürzt werden. Dies bedarf einer Begründung durch den Vorstand.
 6. Das Plenum ist beschlussfähig, wenn mindestens drei stimmberechtigte Mitglieder, darunter zwingend mindestens ein Vorstandsmitglied anwesend sind.
 7. Über das Plenum wird ein Protokoll angefertigt.
 
