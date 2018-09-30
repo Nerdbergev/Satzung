@@ -77,7 +77,7 @@ Hauptteil der Satzung
 4. Tagungen des Plenum können im Rahmen eines persönlichen Treffens stattfinden.
 5. Eine persönliche Einladung zu den Sitzungen des Plenums erfolgt nicht.
 6. Das Plenum ist beschlussfähig, wenn mindestens drei stimmberechtigte Mitglieder, darunter zwingend mindestens ein Vorstandsmitglied anwesend sind.
-7. Das Protokoll des Plenum wird mit einfacher Abstimmungsmehrheit von dem nächsten Plenum genehmigt und nicht unterschrieben.
+7. Über das Plenum wird ein Protokoll angefertigt.
 
 ### §10. Der Vorstand
 1. Der Vorstand ist für alle laufenden Angelegenheiten des Vereins und seine Vertretung nach außen verantwortlich.  
