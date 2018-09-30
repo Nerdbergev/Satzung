@@ -72,7 +72,7 @@ Hauptteil der Satzung
 
 
 ### §9. Das Plenum
-1. Das Plenum ist das zweithöchste Organ des Vereins. Es berät und beschließt über politische und organisatorische Fragen des 2. Tagesgeschehens. Jedes stimmberechtigte Mitglied des Vereins ist antragsberechtigt.
+1. Das Plenum ist das zweithöchste Organ des Vereins. Es berät und beschließt über politische und organisatorische Fragen des Tagesgeschehens. Jedes stimmberechtigte Mitglied des Vereins ist antragsberechtigt.
 3. Das Plenum tagt regelmäßig.
 4. Tagungen des Plenum können im Rahmen eines persönlichen Treffens stattfinden.
 5. Eine persönliche Einladung zu den Sitzungen des Plenums erfolgt nicht.
