@@ -101,6 +101,7 @@ zwei Vorstandsmitglieder erforderlich. Abweichend davon sind der Vorsitzende, de
 2. Die Geschäftsordnung wird von der Mitgliederversammlung mit einfacher Mehrheit beschlossen; über Änderungsanträge beschließt die Mitgliederversammlung mit einfacher Mehrheit.
 3. Der Vorstand hat eine Nutzungsordnung über die Benutzung des Vereinseigentums, der Vereinsräume und der Veranstaltungsorte zu erlassen. Die Ordnung wird vom Vorstand beschlossen. Darüber hinaus kann der Vorstand weitere Ordnungen erlassen.
 4. Ordnungen, die vom Vorstand erlassen werden, müssen den Mitgliedern mindestens 2 Wochen vor ihrem in Kraft treten schriftlich oder per E-Mail bekannt gemacht werden. Erklärt innerhalb von zwei Wochen nach Bekanntgabe der Ordnung ein Viertel aller ordentlichen Mitglieder dem Vorstand ihren Widerspruch zur Ordnung, so tritt diese nur nach Zustimmung der nächsten Mitgliederversammlung in Kraft.
+5. Die Ordnungen sind nicht Bestandteil der Satzung.
 
 ### §13 Mitgliedsbeiträge
 1. Für die Regelung der Beiträge beschließt die Mitgliederversammlung eine Beitragsordnung.
