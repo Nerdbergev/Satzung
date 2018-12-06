@@ -64,7 +64,7 @@ Hauptteil der Satzung
 2. Die Einladung erfolgt in Textform.
 3. Der Vorstand hat zusätzlich unverzüglich eine Mitgliederversammlung einzuberufen, wenn mindestens 20% der Vereinsmitglieder die Einberufung in Textform fordern.
 4. Jedes stimmberechtigte Vereinsmitglied hat das gleiche Stimmgewicht.
-5. Stimmberechtigt ist jedes anwesende Mitglied dessen Mitgliedschaft nicht ruht.
+5. Stimmberechtigt ist jedes anwesende Mitglied dessen Mitgliedschaft nicht ruht. (Vgl. §5 Abs.2)
 6. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Enthaltungen sind keine gültigen Stimmen.
 7. Über die Beschlüsse der Mitgliederversammlung ist Protokoll zu führen, das vom Versammlungsleiter zu unterzeichnen ist.
 8. Abstimmungen müssen geheim erfolgen, wenn mindestens ein Mitglied dies fordert.
