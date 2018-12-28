@@ -82,7 +82,7 @@ Hauptteil der Satzung
 
 ### §10. Der Vorstand
 1. Der Vorstand ist für alle laufenden Angelegenheiten des Vereins und seine Vertretung nach außen verantwortlich.
-2. Der Vorstand besteht aus mindestens drei Mitgliedern:
+2. Der Vorstand besteht aus drei Mitgliedern:
 	* einem Vorsitzenden
 	* einem stellvertretenden Vorsitzenden
 	* einem Kassenwart
