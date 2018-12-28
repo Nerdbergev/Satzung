@@ -68,7 +68,7 @@ Hauptteil der Satzung
 6. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Enthaltungen sind keine gültigen Stimmen.
 7. Über die Beschlüsse der Mitgliederversammlung ist Protokoll zu führen, das vom Versammlungsleiter zu unterzeichnen ist.
 8. Abstimmungen müssen geheim erfolgen, wenn mindestens ein Mitglied dies fordert.
-9. Die Mitgliederversammlung bestimmt einen Kassenprüfer, der die Arbeit des Kassenwartes kontrolliert und der Mitgliederversammlung berichtet.
+9. Die Mitgliederversammlung bestimmt mindesteens einen Kassenprüfer, der die Arbeit des Kassenwartes kontrolliert und der Mitgliederversammlung berichtet.
 
 
 ### §9. Das Plenum
