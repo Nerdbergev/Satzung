@@ -88,10 +88,8 @@ Hauptteil der Satzung
 	* einem Kassenwart
 3. Der Vorstand wird von der Mitgliederversammlung gewählt und bleibt bis zur Amtsübernahme durch seinen Nachfolger im Amt.
 4. Der Vorstand gibt sich eine Geschäftsordnung, in der auch bestimmte Zuständigkeiten einzelnen Vorstandsmitgliedern zugeordnet werden können.
-5. Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26 BGB bei Rechtsgeschäften bis
-zu einem Höchstbetrag von 1.500,00 Euro. Bei Rechtsgeschäften über 1.500,00 Euro ist die Vertretung durch
-zwei Vorstandsmitglieder erforderlich. Abweichend davon sind der Vorsitzende, der stellvertretende Vorsitzende und der Schatzmeister jeweils einzeln gegenüber Kreditinstituten vertretungsberechtigt und verfügungsbefugt.
-6. Bei der Aufnahme von Darlehen mit einem Wert von über 500,00 Euro (kumulativ) oder beim Erwerb oder Verkauf von Grundstücken, bei der Belastung und bei allen sonstigen Verfügungen über Grundstücke oder grundstücksgleiche Rechte ist die Vertretungsmacht des Vorstands mit Wirkung gegen Dritte in der Weise beschränkt, dass die Zustimmung der Mitgliederversammlung hierzu erforderlich ist.
+5. Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26 BGB bei Rechtsgeschäften. Bei Rechtsgeschäften über 1.500,00 Euro ist im Innenverhältnis ein Beschluss des Plenums auf Antrag eines Vorstandsmitglieds notwendig.
+6. Bei der Aufnahme von Darlehen mit einem Wert von über 500,00 Euro (kumulativ) oder beim Erwerb oder Verkauf von Grundstücken, bei der Belastung und bei allen sonstigen Verfügungen über Grundstücke oder grundstücksgleiche Rechte ist im Innenverhältnis ein Beschluss der Mitgliederversammlung notwendig.
 
 ### §11 Amtsdauer des Vorstands
 1. Der Vorstand wird von der Mitgliederversammlung für die Dauer von einem Jahr gewählt. Er bleibt jedoch bis zur Neuwahl im Amt. Die Wiederwahl eines Vorstandsmitgliedes ist zulässig.
