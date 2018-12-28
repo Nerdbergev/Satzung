@@ -47,7 +47,7 @@ Hauptteil der Satzung
 7. Bei einer ruhenden Mitgliedschaft ist das Mitglied aller Rechte und Pflichten gegenüber dem Verein, mit Ausnahme der in §5 Absatz 2 beschriebenen Rechten, enthoben.
 
 ### §5. Ausschluss eines Mitglieds
-1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, es den satzungsgemäßen Zielen des Vereins entgegenwirkt oder seinen Beitragsverpflichtungen nicht nachkommt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form gemäß unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
+1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, es den satzungsgemäßen Zielen des Vereins entgegenwirkt oder seinen Beitragsverpflichtungen nicht nachkommt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 2. Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 ### §6. Rechte und Pflichten der Mitglieder
