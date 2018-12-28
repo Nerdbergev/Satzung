@@ -44,7 +44,7 @@ Hauptteil der Satzung
 4. Hat der Vorstand die Aufnahme abgelehnt, so kann der Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet.
 5. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Person oder durch Auflösung und Erlöschung von nicht natürlichen Personen. Die Beitragspflicht für das laufende Geschäftsjahr wird von der Geschäftsordnung geregelt.
 6. Der Austritt wird durch eine schriftliche Willenserklärung gegenüber dem Vorstand erklärt.
-
+7. Bei einer ruhenden Mitgliedschaft ist das Mitglied aller Rechte und Pflichten gegenüber dem Verein, mit Ausnahme der in §5 Absatz 2 beschriebenen Rechten, enthoben.
 
 ### §5. Ausschluss eines Mitglieds
 1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, es den satzungsgemäßen Zielen des Vereins entgegenwirkt oder seinen Beitragsverpflichtungen nicht nachkommt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form gemäß unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
