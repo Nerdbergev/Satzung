@@ -19,13 +19,13 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
  1. Die Zusammenarbeit mit lokalen Vereinen sowie die Vertretung des Vereins gegenüber Verwaltungen und Organisationen ist Aufgabe der Vorstände.
  1. Die Aufgaben aus §3 Absatz 2 bis 4 können von den Vorständen an andere Mitglieder deligiert werden. 
 
-### § 4 Aufgaben des Kassenwarts
- 1. Der Kassenwart überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
- 1. Mit dem Ablauf des Geschäftsjahres stellt der Kassenwart unverzüglich die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichen Belang den Finanzprüfern des Vereins zur Prüfung zur Verfügung.
- 1. Als Vorstandsmitglied hat der Kassenwart die Einbringung der Mitgliedsbeiträge und anderer Einnahmen zu organisieren. Dabei genießt er die volle Unterstützung des gesamten Vorstands.
- 1. Für die laufenden Einnahmen und Ausgaben führt der Kassenwart eine Bargeldkasse. Überschüssige Bargeldsummen werden von ihm regelmäßig auf dem Vereinskonto abgelegt.
- 1. Für Bareingänge stellt der Kassenwart eine formgerechte Quittung in doppelter Ausfertigung aus, davon eine für den Einzahler.
- 1. Jede einzelne Ausgabe muss belegt werden. Jeder Beleg muss von dem Vereinsmitglied, das die Ausgabe getätigt hat, umgehend beim Kassenwart eingereicht werden.
+### § 4 Aufgaben des Schatzmeister
+ 1. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
+ 1. Mit dem Ablauf des Geschäftsjahres stellt der Schatzmeister unverzüglich die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichen Belang den Finanzprüfern des Vereins zur Prüfung zur Verfügung.
+ 1. Als Vorstandsmitglied hat der Schatzmeister die Einbringung der Mitgliedsbeiträge und anderer Einnahmen zu organisieren. Dabei genießt er die volle Unterstützung des gesamten Vorstands.
+ 1. Für die laufenden Einnahmen und Ausgaben führt der Schatzmeister eine Bargeldkasse. Überschüssige Bargeldsummen werden von ihm regelmäßig auf dem Vereinskonto abgelegt.
+ 1. Für Bareingänge stellt der Schatzmeister eine formgerechte Quittung in doppelter Ausfertigung aus, davon eine für den Einzahler.
+ 1. Jede einzelne Ausgabe muss belegt werden. Jeder Beleg muss von dem Vereinsmitglied, das die Ausgabe getätigt hat, umgehend beim Schatzmeister eingereicht werden.
 
 ### §5 Pressesprecher
  1. Der Vorstand kann ein ordentliches Vereinsmitglied zum Pressesprecher ernennen.
