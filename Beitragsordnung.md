@@ -9,7 +9,7 @@
 ### § 3 Fälligkeit und Zahlungsweise
 1. Die Mitgliedsbeiträge werden jeweils zum 15. Tag des Monats fällig.
 2. Bei Zahlungen per Lastschriftverfahren mittels Einzugsermächtigung verpflichtet sich das Mitglied im Falle von Rücklastschriften, alle dem Verein durch die Rücklastschrift entstanden Aufwendungen und Auslagen zu ersetzen.
-3. Die Zahlung kann auch auf eine andere Art geleistet werden. Dies ist jedoch vorab mit dem Schatzmeister zu vereinbaren.
+3. Die Zahlung kann auch auf eine andere Art geleistet werden. Dies ist jedoch vorab mit dem Kassenwart zu vereinbaren.
 
 ### § 4 Mahnwesen und Inkasso
-1. Mitglieder, die mit der Zahlung ihres Beitrages mehr als einen Monat in Rückstand sind, sind zu mahnen. Bleibt die Mahnung erfolglos, ist sie nach einem weiteren Monat zu wiederholen, bleibt diese Mahnung wieder erfolglos, kann der Schatzmeister den Ausschluss des Mitglieds beantragen.
+1. Mitglieder, die mit der Zahlung ihres Beitrages mehr als einen Monat in Rückstand sind, sind zu mahnen. Bleibt die Mahnung erfolglos, ist sie nach einem weiteren Monat zu wiederholen, bleibt diese Mahnung wieder erfolglos, kann der Kassenwart den Ausschluss des Mitglieds beantragen.
