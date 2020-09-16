@@ -1,6 +1,8 @@
 ### § 1 Mitgliedsbeiträge
 1. Jedes Mitglied hat einen Mitgliedsbeitrag zu entrichten.
-2. Der Mitgliedsbeitrag beträgt für ordentliche Mitglieder monatlich 35,00 Euro, für fördernde Mitglieder monatlich 15,00 Euro.
+2. Der Mitgliedsbeitrag beträgt 35 Euro pro Monat.
+3. Der Mitgliedsbeitrag für Personen unter 18 Jahren, bzw. für Personen mit geringfügigem Einkommen, beträgt 10 Euro pro Monat.
+4. In begründeten Härtefällen können individuelle Absprachen mit dem Vorstand diskret besprochen werden.
 3. Die festgesetzten Beiträge sind Mindestbeiträge. Über die Beiträge hinaus kann sich jedes Mitglied freiwillig zur Zahlung eines selbst angesetzten höheren Mitgliedsbeitrages verpflichten.
 
 ### § 2 Ermäßigungen
