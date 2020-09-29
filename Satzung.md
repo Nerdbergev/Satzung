@@ -96,7 +96,7 @@ Die Mitglieder haben die Beitragsordnung, Raumordnung und alle im Rahmen der Mit
 1. Der Vorstand wird von der Mitgliederversammlung für die Dauer von einem Jahr gewählt. Er bleibt jedoch bis zur Neuwahl im Amt. Die Wiederwahl eines Vorstandsmitgliedes ist zulässig.
 2. Scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so muss innerhalb von sechs Wochen eine Mitgliederversammlung einberufen werden. Im Rahmen dieser Versammlung wird darüber abgestimmt, ob nur das ausscheidende Mitglied oder der gesamte Vorstand neu gewählt wird. Daraufhin erfolgt die Wahl. Die Amtszeit aller neugewählten Vorstandsmitglieder endet zum Ablauf der regulären Amtszeit des bisherigen Vorstands.
 
-### $12 Ordnungen
+### §12 Ordnungen
 1. Die Satzung kann durch eine Geschäftsordnung ergänzt werden. Die Bestimmungen der Geschäftsordnung dürfen mit der Satzung nicht in Widerspruch stehen.
 2. Die Geschäftsordnung wird von der Mitgliederversammlung mit einfacher Mehrheit beschlossen; über Änderungsanträge beschließt die Mitgliederversammlung mit einfacher Mehrheit.
 3. Der Vorstand hat eine Nutzungsordnung über die Benutzung des Vereinseigentums, der Vereinsräume und der Veranstaltungsorte zu erlassen. Die Ordnung wird vom Vorstand beschlossen. Darüber hinaus kann der Vorstand weitere Ordnungen erlassen.
