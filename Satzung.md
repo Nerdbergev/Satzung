@@ -13,7 +13,7 @@ Hauptteil der Satzung
 ### §1 Name, Sitz, Eintragung, Geschäftsjahr  
 1. Der Verein führt den Namen Nerdberg.  
 2. Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz eingetragener Verein in der abgekürzter Form "e.V.".  
-3. Der Sitz des Vereins ist Nürnberg.  
+3. Der Sitz des Vereins ist Fürth.  
 4. Das Geschäftsjahr ist das Kalenderjahr
 
 ### §2. Vereinszweck und Zweckverwirklichung
@@ -39,19 +39,20 @@ Hauptteil der Satzung
 
 ### §4. Mitgliedschaft
 1. Ordentliches Mitglied des Vereins können alle natürlichen oder juristischen Personen, sowie Handelsgesellschaften, rechtsfähige Vereine und Anstalten beziehungsweise Körperschaften des Öffentlichen Rechts werden, die seine Ziele unterstützen.
-2. Über die Aufnahme von Mitgliedern entscheidet der Vorstand.
-3. Die Beitrittserklärung erfolgt schriftlich gegenüber dem Vorstand. Die Mitgliedschaft beginnt mit der Aushändigung einer entsprechenden Bestätigung durch ein Vorstandsmitglied.
-4. Hat der Vorstand die Aufnahme abgelehnt, so kann der Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet.
-5. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Person oder durch Auflösung und Erlöschung von nicht natürlichen Personen. Die Beitragspflicht für das laufende Geschäftsjahr wird von der Geschäftsordnung geregelt.
-6. Der Austritt wird durch eine schriftliche Willenserklärung gegenüber dem Vorstand erklärt.
-7. Bei einer ruhenden Mitgliedschaft ist das Mitglied aller Rechte und Pflichten gegenüber dem Verein, mit Ausnahme der in §5 Absatz 2 beschriebenen Rechten, enthoben.
+2. Fördermitglieder des Vereins können alle natürlichen oder juristischen Personen, sowie Handelsgesellschaften, rechtsfähige Vereine und Anstalten beziehungsweise Körperschaften des Öffentlichen Rechts werden, die seine Ziele unterstützen.
+3. Über die Aufnahme von Mitgliedern entscheidet der Vorstand.
+4. Die Beitrittserklärung erfolgt schriftlich gegenüber dem Vorstand. Die Mitgliedschaft beginnt mit der Aushändigung einer entsprechenden Bestätigung durch ein Vorstandsmitglied.
+5. Hat der Vorstand die Aufnahme abgelehnt, so kann der Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet.
+6. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Person oder durch Auflösung und Erlöschung von nicht natürlichen Personen. Die Beitragspflicht für das laufende Geschäftsjahr wird von der Geschäftsordnung geregelt.
+7. Der Austritt wird durch eine schriftliche Willenserklärung gegenüber dem Vorstand erklärt.
+8. Bei einer ruhenden Mitgliedschaft ist das Mitglied aller Rechte und Pflichten gegenüber dem Verein, mit Ausnahme der in §5 Absatz 2 beschriebenen Rechten, enthoben.
 
 ### §5. Ausschluss eines Mitglieds
 1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, es den satzungsgemäßen Zielen des Vereins entgegenwirkt oder seinen Beitragsverpflichtungen nicht nachkommt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 2. Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 ### §6. Rechte und Pflichten der Mitglieder
-1. Rechte und Pflichten der Mitglieder: Die Mitglieder haben die Beitragsordnung, Raumordnung und alle im Rahmen der Mitgliederversammlung oder vom Vorstand beschlossenen Zusatzvereinbarungen einzuhalten. Mitglieder sind berechtigt, Räumlichkeiten und Ressourcen des Vereins innerhalb der beschlossenen Regelungen zu nutzen.
+Die Mitglieder haben die Beitragsordnung, Raumordnung und alle im Rahmen der Mitgliederversammlung oder vom Vorstand beschlossenen Zusatzvereinbarungen einzuhalten. Ordentliche Mitglieder sind berechtigt, Räumlichkeiten und Ressourcen des Vereins innerhalb der beschlossenen Regelungen zu nutzen.
 
 ### §7. Organe des Vereins
 1. Die Organe des Vereins sind:
@@ -95,7 +96,7 @@ Hauptteil der Satzung
 1. Der Vorstand wird von der Mitgliederversammlung für die Dauer von einem Jahr gewählt. Er bleibt jedoch bis zur Neuwahl im Amt. Die Wiederwahl eines Vorstandsmitgliedes ist zulässig.
 2. Scheidet ein Vorstandsmitglied vorzeitig aus dem Amt aus, so muss innerhalb von sechs Wochen eine Mitgliederversammlung einberufen werden. Im Rahmen dieser Versammlung wird darüber abgestimmt, ob nur das ausscheidende Mitglied oder der gesamte Vorstand neu gewählt wird. Daraufhin erfolgt die Wahl. Die Amtszeit aller neugewählten Vorstandsmitglieder endet zum Ablauf der regulären Amtszeit des bisherigen Vorstands.
 
-### $12 Ordnungen
+### §12 Ordnungen
 1. Die Satzung kann durch eine Geschäftsordnung ergänzt werden. Die Bestimmungen der Geschäftsordnung dürfen mit der Satzung nicht in Widerspruch stehen.
 2. Die Geschäftsordnung wird von der Mitgliederversammlung mit einfacher Mehrheit beschlossen; über Änderungsanträge beschließt die Mitgliederversammlung mit einfacher Mehrheit.
 3. Der Vorstand hat eine Nutzungsordnung über die Benutzung des Vereinseigentums, der Vereinsräume und der Veranstaltungsorte zu erlassen. Die Ordnung wird vom Vorstand beschlossen. Darüber hinaus kann der Vorstand weitere Ordnungen erlassen.
@@ -116,7 +117,7 @@ Hauptteil der Satzung
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks- und Berufsbildung.
 
 
-Die Satzung wurde errichtet am 30.09.2018 - mit Nachträgen vom 28.12.2018 und vom 16.02.2019
+Die Satzung wurde errichtet am 30.09.2018 - mit Nachträgen vom 28.12.2018 und vom 16.02.2019 zuletzt geändert am 28.09.2020
 
 
 
