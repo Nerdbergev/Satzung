@@ -42,4 +42,4 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
  1. Die in Absatz 1. genannten Personen teilen in eigener Verantwortung getroffene Entscheidung dem Vorstand unverzüglich mit. Dies geschieht in geeigneter Form (i.d.R. per E-Mail-Verteiler).
 
 ### §8 Inkrafttreten
-Diese Geschäftsordnung wurde durch die Mitgliederversammlung am xx.xx.xxxx beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
+Diese Geschäftsordnung wurde durch die Mitgliederversammlung am 17.10.2020 beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
