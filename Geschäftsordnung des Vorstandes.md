@@ -2,7 +2,7 @@ Geschäftsordnung des Vorstandes
 ===============================
 
 ### §0 Präambel
-Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Festlegung von Regeln, zum Anderen ist sie als Dokumentation für die Arbeit des Vorstands anzusehen.
+Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Festlegung von Regeln, zum Anderen ist sie als Dokumentation für die Arbeit des Vorstands anzusehen. Die Geschäftsordnung wurde auf Basis von §10 Abs. 4 der Satzung erlassen
 
 ### §1 Versammlungsordnung
  1. Der Vorstand soll monatlich tagen, mindestens aber einmal im Quartal.
