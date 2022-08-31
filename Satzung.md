@@ -119,7 +119,7 @@ durchzuführen, soweit dies mit dem Verlangen beantragt wird.
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den gemeinnützigen Zweck der Förderung der Erziehung, Volks- und Berufsbildung.
 
 
-Die Satzung wurde errichtet am 30.09.2018 - mit Nachträgen vom 28.12.2018 und vom 16.02.2019 zuletzt geändert am 28.09.2020
+Die Satzung wurde errichtet am 30.09.2018 - mit Nachträgen vom 28.12.2018 und vom 16.02.2019 zuletzt geändert am 31.08.2020
 
 
 
