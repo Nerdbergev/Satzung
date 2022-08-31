@@ -63,13 +63,15 @@ Die Mitglieder haben die Beitragsordnung, Raumordnung und alle im Rahmen der Mit
 ### §8. Mitgliederversammlung
 1. Die Mitgliederversammlung ist mindestens einmal pro Jahr, vom Vorstand mit einer mindestens 14-tägigen Frist einzuberufen.
 2. Die Einladung erfolgt in Textform.
-3. Der Vorstand hat zusätzlich unverzüglich eine Mitgliederversammlung einzuberufen, wenn mindestens 20% der Vereinsmitglieder die Einberufung in Textform fordern.
+3. Der Vorstand hat zusätzlich unverzüglich eine Mitgliederversammlung einzuberufen, wenn mindestens 20% der Vereinsmitglieder die Einberufung in Textform fordern. Die Mitgliederversammlung ist als Präsenzversammlung
+durchzuführen, soweit dies mit dem Verlangen beantragt wird.
 4. Jedes stimmberechtigte Vereinsmitglied hat das gleiche Stimmgewicht.
-5. Stimmberechtigt ist jedes anwesende Mitglied dessen Mitgliedschaft nicht ruht.
+5. Stimmberechtigt ist jedes teilnehmende Mitglied dessen Mitgliedschaft nicht ruht.
 6. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Enthaltungen sind keine gültigen Stimmen.
 7. Über die Beschlüsse der Mitgliederversammlung ist Protokoll zu führen, das vom Versammlungsleiter zu unterzeichnen ist.
 8. Abstimmungen müssen geheim erfolgen, wenn mindestens ein Mitglied dies fordert.
 9. Die Mitgliederversammlung bestimmt mindestens einen Kassenprüfer, der die Arbeit des Kassenwartes kontrolliert und der Mitgliederversammlung berichtet.
+10. Die Mitgliederversammlung kann auch im Wege der elektronischen Kommunikation (z.B. per Telefon- oder Videokonferenz) oder in einer gemischten Versammlung aus Anwesenden und Videokonferenz/anderen Medien/Telefon durchgeführt werden. Ob die Mitgliederversammlung in einer Sitzung oder im Wege der elektronischen Kommunikation oder in einer gemischten Versammlung aus Anwesenden und Videokonferenz/anderen Medien/Telefon durchgeführt wird, entscheidet der Vorstand.
 
 
 ### §9. Das Plenum
