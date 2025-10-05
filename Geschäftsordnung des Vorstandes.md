@@ -14,10 +14,9 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
 
 ### §3 Aufgaben des Vorstandes
  1. Die Vorstände führen die Liste der Vereinsmitglieder. Periodisch werden von ihnen die sich ergebenden Veränderungen durch Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt. In der Regel geschieht das beim Plenum.
- 1. Die Vorstände verwalten die Mailinglisten und Verteiler des Vereins. Sie tragen Neumitglieder zeitnah in die Systeme ein und entfernen die entsprechenden Daten beim Ausscheiden eines Mitglieds.
- 1. Die Zugangsberechtigungen zum Vereinswiki werden von den Vorständen auf dem aktuellen Stand gehalten.
+ 1. Die Vorstände verwalten die Mailinglisten/Verteiler und SSO des Vereins. Sie tragen Neumitglieder zeitnah in die Systeme ein und entfernen die entsprechenden Daten beim Ausscheiden eines Mitglieds.
  1. Die Zusammenarbeit mit lokalen Vereinen sowie die Vertretung des Vereins gegenüber Verwaltungen und Organisationen ist Aufgabe der Vorstände.
- 1. Die Aufgaben aus §3 Absatz 2 bis 4 können von den Vorständen an andere Mitglieder deligiert werden. 
+ 1. Die Aufgaben aus §3 Absatz 2 bis 3 können von den Vorständen an andere Mitglieder delegiert werden.
 
 ### § 4 Aufgaben des Kassenwarts
  1. Der Kassenwart überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
@@ -42,4 +41,4 @@ Diese Geschäftsordnung verfolgt zwei Zwecke: Zum Einen die offensichtliche Fest
  1. Die in Absatz 1. genannten Personen teilen in eigener Verantwortung getroffene Entscheidung dem Vorstand unverzüglich mit. Dies geschieht in geeigneter Form (i.d.R. per E-Mail-Verteiler).
 
 ### §8 Inkrafttreten
-Diese Geschäftsordnung wurde am 17.10.2020 beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
+Diese Geschäftsordnung wurde am 05.10.2025 beschlossen und tritt mit sofortiger Wirkung in Kraft. Diese Geschäftsordnung ersetzt alle vorher beschlossenen Geschäftsordnungen.
