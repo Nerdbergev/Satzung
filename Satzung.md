@@ -4,7 +4,8 @@ Nerdberg ist ein politisch, weltanschaulich und wirtschaftlich unabhängiger Ver
 Der Verein ist ein Zusammenschluss von Individuen, denen der Wunsch nach Auslotung von technischen Grenzen, dem Erproben von Innovationen und der freie Wissensaustausch gemein ist.
 Nerdberg begreift sich als Freiraum, in dem die Mitglieder aufgefordert sind, individuelle Impulse einzubringen, um interdisziplinär und kreativ an und mit dem Gerät sowie in verwandten Disziplinen zu arbeiten und sich auszutauschen.
 Wesentliches Vereinsziel ist die Erwachsenen- und Jugendbildung. Sowohl medienpädagogische Arbeit, als auch die Förderung der Hilfe zur Selbsthilfe stehen hier im Fokus.
-Die „Hackerkultur“ im ursprünglichen Sinn des Wortes ist geprägt vom konstruktiven, spielerischen und progressiven Umgang mit Technologie und motiviert durch das gestalterische Potential, das die Informationstechnologie der Allgemeinheit eröffnet hat. Wir sehen Hackerkultur als wichtigen Beitrag zur gesellschaftspolitischen Entwicklung und als kreative Triebfeder für technologische und gesellschaftliche Innovation.
+Die „Hackerkultur“ im ursprünglichen Sinn des Wortes ist geprägt vom konstruktiven, spielerischen und progressiven Umgang mit Technologie und motiviert durch das gestalterische Potential, das die Informationstechnologie der Allgemeinheit eröffnet hat. Wir sehen Hackerkultur als wichtigen Beitrag zur gesellschaftspolitischen Entwicklung und als kreative Triebfeder für technologische und gesellschaftliche Innovation. Diese Kultur lebt von Vielfalt. Rassistische, antisemitische, sexistische, queerfeindliche oder sonstige
+ menschenverachtende Ideologien haben darin keinen Platz. Wir treten gegen menschenrechtsfeindliche Bestrebungen und für eine offene und vielfältige Gesellschaft ein.
 Die Mitglieder des Nerdberg sind in den Bereichen Freie Software, Mikrocontrolling, Anwendungsentwicklung, Hard- und Softwarediagnostik, Netzpolitik, alternative Telekommunikationsinfrastruktur, additive Fertigungstechnologien, sowie der Nutzung neuer Technologien in der Gegenwartskunst aktiv.
 
 Hauptteil der Satzung
@@ -48,8 +49,22 @@ Hauptteil der Satzung
 8. Bei einer ruhenden Mitgliedschaft ist das Mitglied aller Rechte und Pflichten gegenüber dem Verein, mit Ausnahme der in §5 Absatz 2 beschriebenen Rechten, enthoben.
 
 ### §5. Ausschluss eines Mitglieds
-1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, es den satzungsgemäßen Zielen des Vereins entgegenwirkt oder seinen Beitragsverpflichtungen nicht nachkommt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
-2. Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
+1. Ausschlussgründe
+   
+   Ein Mitglied kann durch Beschluss des Vorstands ausgeschlossen werden, wenn
+	1. es den satzungsgemäßen Zielen des Vereins zuwiderhandelt oder seine Pflichten aus der Satzung grob verletzt,
+    2. es durch Handlungen oder Äußerungen das Ansehen des Vereins erheblich schädigt oder zu schädigen droht,
+    3. es einer Organisation angehört oder diese unterstützt, deren Ziele den Grundsätzen des Vereins widersprechen; Maßstab für die Beurteilung ist insbesondere eine von der Mitgliederversammlung beschlossene Unvereinbarkeitserklärung,
+    4. es seinen Beitragsverpflichtungen trotz zweimaliger schriftlicher Mahnung nicht nachkommt.
+3. Verfahren
+    1. Vor der Beschlussfassung ist dem betroffenen Mitglied Gelegenheit zu geben, sich innerhalb einer Frist von mindestens zwei Wochen schriftlich oder
+         mündlich zu den Vorwürfen zu äußern.
+    2. Der Beschluss ist schriftlich zu begründen und dem Mitglied in Textform mit Zustellnachweis mitzuteilen.
+    3. Der Beschluss ist mit Datum, Tenor und Entscheidungsgründen in den Vereinsunterlagen zu dokumentieren.
+4. Rechtsmittel
+    1. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang des Beschlusses schriftlich Berufung an die Mitgliederversammlung einlegen.
+    2. Die Mitgliederversammlung entscheidet endgültig.
+    3. Bis zur endgültigen Entscheidung ruht die Mitgliedschaft.
 
 ### §6. Rechte und Pflichten der Mitglieder
 Die Mitglieder haben die Beitragsordnung, Raumordnung und alle im Rahmen der Mitgliederversammlung oder vom Vorstand beschlossenen Zusatzvereinbarungen einzuhalten. Ordentliche Mitglieder sind berechtigt, Räumlichkeiten und Ressourcen des Vereins innerhalb der beschlossenen Regelungen zu nutzen.
